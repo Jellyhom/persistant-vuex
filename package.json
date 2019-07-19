@@ -1,0 +1,11 @@
+{
+  "name": "persistant-vuex",
+  "version": "1.0.0",
+  "description": "A plugin that makes persistant state of vuex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "潘奇",
+  "license": "MIT"
+}
