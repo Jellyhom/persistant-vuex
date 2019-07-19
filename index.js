@@ -5,8 +5,8 @@ export default function (options) {
 
   const canWriteStorage = storage => {
     try {
-      storage.setItem('@@', 1)
-      storage.removeItem('@@')
+      storage.setItem('StayEasyAndJustHaveATry', 'haha')
+      storage.removeItem('StayEasyAndJustHaveATry')
       return true
     } catch (e) {}
 
